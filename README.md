@@ -12,15 +12,15 @@ O projeto foi dividio em duas pastas principais
 ## 📜 Funcionalidades
 
 ✅ Mostras informações do cliente como:
-    -Nome do Animal
-    -Nome do Tutor
-    -Idade
-    -Tipo de pelo do cachorro
+    - Nome do Animal
+    - Nome do Tutor
+    - Idade
+    - Tipo de pelo do cachorro
 ✅ Marcar consulta:
-    -Data da consulta
-    -Horário da consulta
-    -Veterinario Resposavel
-    -Valor Total
+    - Data da consulta
+    - Horário da consulta
+    - Veterinario Resposavel
+    - Valor Total
  ✅ Remaracar consulta
  
 
